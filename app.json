@@ -21,10 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/wetroghy/qo4rtsdg
-",
-  "repository": "https://github.com/wetroghy/qo4rtsdg
-",
+  "website": "https://github.com/wetroghy/qo4rtsdg",
+  "repository": "https://github.com/wetroghy/qo4rtsdg",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
